@@ -31,3 +31,5 @@ Add task to schedule: C-c C-s
     git add .
     git commit -m "<text>"
     git push origin main
+** MAGIT COMMIT AND PUSH
+    spc-g-c
