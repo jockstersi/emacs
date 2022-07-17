@@ -33,3 +33,8 @@ Add task to schedule: C-c C-s
     git push origin main
 ** MAGIT COMMIT AND PUSH
     spc-g-c
+    commit All
+    enter commit message
+    ctrl-c ctrl-c
+    spc-g-/
+    P p
