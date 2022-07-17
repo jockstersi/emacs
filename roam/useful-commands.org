@@ -18,7 +18,11 @@ Add task to schedule: C-c C-s
 * ROAM
 
 * GIT
-
-*
-
-*
+git init -b main
+git add .
+git commit -m "first commit"
+git branch  -M main
+git remote add origin < repo url >
+git remote set-url origin git@github.com:jockstersi/emacs.github
+ssh -T git@github.com
+git push origin main
