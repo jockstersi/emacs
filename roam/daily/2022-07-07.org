@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       19e020a8-eb0f-4d8f-aaec-ceac8f24bdf8
+:END:
+#+title: 2022-07-07
+* Tasks
+** DONE configure org-roam
+** DONE configure org-roam
+** DONE configure org-roam
+** DONE configure emacs
+** DONE configure org-roam
+** DONE configure emacs
+** DONE configure emacs

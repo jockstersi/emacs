@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ce42e4fc-e902-41d5-bb9e-286ae053f3fc
+:END:
+#+title: test
+#+category: test
+#+filetags: Project
+* Tasks
+** TODO configure org-roam
+** TODO configure emacs
+SCHEDULED: <2022-07-12 Tue>

@@ -1,0 +1,22 @@
+USEFUL  COMMANDS
+
+* EMACS
+
+* VIM
+Delete line: dd
+Goto End of Line
+
+* ORG-MODE
+** Org-Agenda
+Add task to schedule: C-c C-s
+
+** Org-Tasks
+
+** Insert link
+
+
+* ROAM
+
+* Other Stuff
+
+* Misc Stuff

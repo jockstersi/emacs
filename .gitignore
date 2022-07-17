@@ -1,0 +1,13 @@
+.bash_history
+.bash_logout
+.cache/
+.dbus/
+.emacs.d
+.gnupg/
+.hushlogin
+.landscape/
+.local/
+.motd_shown
+.profile
+.ssh/
+.sudo_as_admin_successful
