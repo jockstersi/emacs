@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       24c1f5a9-4e55-4ce9-84bc-b58855ab4054
-:END:
-#+title: Inbox
-* Do some work
-* Do some play

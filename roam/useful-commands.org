@@ -1,40 +1,13 @@
-USEFUL  COMMANDS
-
-* EMACS
-
+* EMACS-BASIC
+** blah
 * VIM
-Delete line: dd
-Goto End of Line
-
+** blah
 * ORG-MODE
-** Org-Agenda
-Add task to schedule: C-c C-s
-
-** Org-Tasks
-
-** Insert link
-
-
-* ROAM
-
+** See valid commands: s-m
+**
+* ORG-ROAM
+** blah
 * GIT
-** INITIALISE REPO
-    git init -b main
-    git add .
-    git commit -m "first commit"
-    git branch  -M main
-    git remote add origin < repo url >
-    git remote set-url origin git@github.com:jockstersi/emacs.github
-    ssh -T git@github.com
-    git push origin main
-** ROUTINE COMMIT AND PUSH
-    git add .
-    git commit -m "<text>"
-    git push origin main
-** MAGIT COMMIT AND PUSH
-    spc-g-c
-    commit All
-    enter commit message
-    ctrl-c ctrl-c
-    spc-g-/
-    P p
+** blah
+* IDE
+** blah

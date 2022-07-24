@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       37e97e31-e77f-4a2d-abed-a33df0c28971
-:END:
-#+title: 2022-07-11
-* get the milk
-* Tasks
-** DONE configure emacs
-** DONE configure emacs
-** DONE configure emacs
