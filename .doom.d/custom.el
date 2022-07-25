@@ -5,7 +5,7 @@
  ;; If there is more than one, they won't work right.
  '(org-agenda-files '("~/roam/holiday-todo.org"))
  '(package-selected-packages
-   '(deft markdownfmt dap-mode cmake-mode yasnippet yaml which-key vterm treeview treemacs-tab-bar treemacs-projectile treemacs-magit treemacs-icons-dired treemacs-evil treemacs-all-the-icons terminal-toggle terminal-here term-projectile sqlite3 pmdm org-roam-ui lsp-mode helm-xref flycheck company-glsl bui)))
+   '(org-brain deft markdownfmt dap-mode cmake-mode yasnippet yaml which-key vterm treeview treemacs-tab-bar treemacs-projectile treemacs-magit treemacs-icons-dired treemacs-evil treemacs-all-the-icons terminal-toggle terminal-here term-projectile sqlite3 pmdm org-roam-ui lsp-mode helm-xref flycheck company-glsl bui)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
