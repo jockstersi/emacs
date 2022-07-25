@@ -1,0 +1,27 @@
+* Garden
+Link:[[file:Notes_Garden.org][A document for garden notes]]
+** Fence
+*** Style
+*** Top garden
+** Step
+** Gravel
+
+* Cycling
+** blah
+
+* Guitar
+** blah
+
+* EMACS
+** Learn to touch type
+
+* Work
+** blah
+** New Term
+*** Finish booklets
+
+* Social
+** blah
+
+* New job
+Link:[[file:Notes_NewJob.org][A document for new job notes]]
